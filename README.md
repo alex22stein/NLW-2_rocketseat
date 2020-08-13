@@ -1,6 +1,6 @@
 # NLW-2_rocketseat
 
-Projeto que durou uma semana ensinado pelo professor Mayk Brito.
+Projeto que durou uma semana e foi ensinado pelo professor Mayk Brito.
 
 As ferramentas utilizadas foram HTML, CSS, JavaScript e SQL.
 
